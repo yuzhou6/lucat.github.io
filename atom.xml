@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lucat.github.io/"/>
+  <link href="http://lucat.cn/"/>
   <updated>2017-08-25T02:04:37.000Z</updated>
-  <id>http://lucat.github.io/</id>
+  <id>http://lucat.cn/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lucat.github.io/2017/08/25/hello-world/"/>
-    <id>http://lucat.github.io/2017/08/25/hello-world/</id>
+    <link href="http://lucat.cn/2017/08/25/hello-world/"/>
+    <id>http://lucat.cn/2017/08/25/hello-world/</id>
     <published>2017-08-25T02:04:37.000Z</published>
     <updated>2017-08-25T02:04:37.000Z</updated>
     
